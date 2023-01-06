@@ -1,0 +1,10 @@
+name: GreetMe
+version: '${project.version}'
+main: me.iiyoyo.greetme.GreetMe
+api-version: 1.19
+authors: [ iiYoyo ]
+description: GreetMe is the best server plugin for greeting new players! Make every new arrival feel welcomed by greeting them with a customized greeting.
+depend: [PlaceholderAPI]
+commands:
+  greetme:
+    usage: /greetme []

@@ -1,0 +1,21 @@
+#Free Palestine <3
+#Free Ukraine <3
+
+# GreetMe is the best server plugin for greeting new players!
+# Make every new arrival feel welcomed by greeting them with a customized greeting.
+# This plugin does fully support PlaceholderAPI, Just make sure that you ran the command "/papi ecloud download player"
+
+# Plugin's config:
+
+# You can change the greeting message from here (This message will only be sent to the player)
+greeting-message: "#E7E7E7&l[!] &#fb5e10&lW&#fb5816&le&#fb531c&ll&#fb4d21&lc&#fb4827&lo&#fc422d&lm&#fc3d33&le &#fc3738&lt&#fc323e&lo &#fc2c44&lt&#fc274a&lh&#fc214f&le &#fc1c55&ls&#fd165b&le&#fd1161&lr&#fd0b66&lv&#fd066c&le&#fd0072&lr %player_name%!"
+
+# You can change the greeting broadcast message from here (This message will be sent to all online players on the server)
+greeting-broadcast: "#E7E7E7&l[!] &#fb5e10&lE&#fb5915&lv&#fb551a&le&#fb501f&lr&#fb4b24&ly&#fc4729&lo&#fc422d&ln&#fc3d32&le &#fc3837&lp&#fc343c&ll&#fc2f41&le&#fc2a46&la&#fc264b&ls&#fc2150&le &#fc1c55&lw&#fd185a&le&#fd135e&ll&#fd0e63&lc&#fd0968&lo&#fd056d&lm&#fd0072&le %player_name%!"
+
+# You can change the leaving message from here (This message will be sent to all online players on the server)
+leaving-message: "#E7E7E7&l[!] &#fb5e10&l%player_name% h&#fb5817&la&#fb511d&ls &#fb4b24&ll&#fc452a&le&#fc3f31&lf&#fc3837&lt &#fc323e&lt&#fc2c44&lh&#fc264b&le &#fc1f51&ls&#fc1958&le&#fd135e&lr&#fd0d65&lv&#fd066b&le&#fd0072&lr"
+
+#This version has been in development for 12 days, and consumed 6 cups of coffee!
+# This is version 1.0, it is not yet complete and may have bugs; please report any bugs to my discord iiYoyo#2455.
+# This plugin was made by YoyoDevs, also this is my first plugin <3
